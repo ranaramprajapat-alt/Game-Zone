@@ -54,7 +54,7 @@ An interactive, real-time multiplayer gaming and chatting platform built with **
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ranaramprajapat-alt/Game-zone-live.git
+   git clone https://github.com/ranaramprajapat-alt/Game-Zone.git
    cd Game-zone-live
    ```
 
@@ -73,4 +73,4 @@ An interactive, real-time multiplayer gaming and chatting platform built with **
 ---
 
 ## 🔗 Repository
-[https://github.com/ranaramprajapat-alt/Game-zone-live](https://github.com/ranaramprajapat-alt/Game-zone-live)
+[https://github.com/ranaramprajapat-alt/Game-Zone](https://github.com/ranaramprajapat-alt/Game-Zone)
